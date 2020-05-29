@@ -10,5 +10,7 @@ por la linea
 En el archivo ParserService.py
 
 - Se agregó un generador aleatorio de cotizaciones para hacer más dinámica la experiencia de espera el refresco.
+- Agregue fecha y hora luego de recibir el Ok de la Pizarra
+- Cambie los encabezados del archivo csv para que coincidiera con los definidos en ParserService.py
 
 Pablo JC Alonso Castillo
